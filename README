@@ -1,0 +1,5 @@
+It's Android project (Eclipse);
+
+This would be compiled to a lib, and used in AacRecorderDemo.
+
+It's about Jni, AudioRecord, pcm to aac.
